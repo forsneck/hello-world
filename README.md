@@ -1,5 +1,5 @@
 # hello-world
-Guess what? Correct, this is a test repository!
+Guess what? This is a test repository!
 ================================
 
 Hi people,
